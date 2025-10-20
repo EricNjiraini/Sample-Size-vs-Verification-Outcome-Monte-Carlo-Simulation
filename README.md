@@ -1,4 +1,4 @@
-# Effect of Sample Sizes on Verification Rates across Multiple Markets
+# Effect of Sample Sizes on Verification Rates
 ## Author: Eric Njiraini
 
 # 🎯 Overview
@@ -67,7 +67,7 @@ After running the simulations:
 3. **Country-level comparison of verification rate dynamics.**
 - The regression lines illustrate that while baseline verification rates differ by country, the trend (improved stability with larger samples) is consistent across all. This suggests the sampling effect is structural, not country-specific.
 
-[Country-level comparison](https://github.com/EricNjiraini/Sample-Size-vs-Verification-Outcome-Monte-Carlo-Simulation/blob/main/Images/country_relationship.png)
+![Country-level comparison](https://github.com/EricNjiraini/Sample-Size-vs-Verification-Outcome-Monte-Carlo-Simulation/blob/main/Images/country_relationship.png)
 
 ### Model summary
 #### Model Summary (Linear Model)
